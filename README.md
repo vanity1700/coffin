@@ -1,2 +1,2 @@
 # coffin
-first bot in anew language 
+first bot in a new language 
